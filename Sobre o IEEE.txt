@@ -1,7 +1,11 @@
 Saiba mais sobre o IEEE
+	#O que gostaria de saber sobre o IEEE?
+
 	Ramo
 		O IEEE Student Branch da USP São Carlos é um ramo do IEEE internacional que realiza atividades e projetos independentes dentro da universidade e também nas escolas públicas da cidade. Dentre os objetivos do grupo, destacam-se a busca por desenvolver seus membros, gerentes e diretores nas áreas técnica, social, administrativa e de liderança; capacitar os estudantes do campus em alguns softwares e linguagens de programação que são de extrema utilidade para as atividades acadêmicas e incluir socialmente os alunos do ensino médio da rede pública de ensino.
 	Projetos
+		#Escolha um projeto para saber mais sobre suas atividades e entrar em contato.
+
 		IA
 			Um grupo de estudos de inteligência artificial, onde os integrantes aprendem algoritmos na linguagem de programação Python. Visa não apenas capacitar os membros na linguagem e desenvolver seus conhecimentos com algoritmos genéticos e redes neurais, mas também é um projeto técnico que possui como objetivo criar um chatbot utilizando aprendizado de máquina e que, quando pronto, será disponibilizado na página de facebook do ramo para ser testado por qualquer pessoa.
 		Oficina de energia
@@ -13,6 +17,8 @@ Saiba mais sobre o IEEE
 	Eventos
 		RRS
 	Diretoria
+		#Escolha um cargo de diretoria para saber mais sobre suas funções e poder entrar em contato
+
 		Tesouraria
 			O/a tesoureiro/a do ramo estudantil tem como principal responsabilidade o registro e acompanhamento das atividades financeiras.
 		WIE
