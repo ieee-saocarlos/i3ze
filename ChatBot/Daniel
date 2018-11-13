@@ -1,0 +1,27 @@
+Apresentações possíveis
+R1: Meu nome é I3zé,sou o chatbot do IEEE,sobre o que você gostaria de saber? Posso te informar mais sobre o IEEE, sobre os grupos e os nossos membros.
+
+Palavras-chave: IEEE
+R1: O IEEE é uma organização internacional relacionada à engenharia elétrica, sua sigla significa "Instituto de Engenheiros Eletricistas eletrônicos" . Ela foi fundada
+nos Estados Unidos em 1963 e, hoje em dia, é a maior organização profissional do mundo dedicada ao avanço tecnológico , possuindo diversos ramos em vários países. 
+
+Palavra-chave:entrar,parte,grupo,grupos
+
+R1: Temos vários projetos sendo desenvolvidos aqui no ramo de São Carlos, entre eles, estão a IA (inteligência artificial)(1), oficina de energia(2),engenharia nas escolas(3),
+ciência na prática(4) e WIE (mulheres na engenharia)(5). Gostaria de saber mais sobre algum deles?
+
+Palavras-chave :s,ss,sim,claro
+R1: Sobre que grupo você gostaria de saber mais? (digitar o número após o grupo).
+Se 1: O projeto de inteligência artificial ...
+Se 2:
+Se 3:
+Se 4:
+Se 5:
+
+Conversa:
+R1: Olá,tudo bem?
+Palavras-chave:
+voce,vc
+R1: Estou ótimo!
+Palavras-chave:nao
+R1: A graduação é pesada, mas tudo se dá um jeito.
