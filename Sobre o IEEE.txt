@@ -1,0 +1,25 @@
+Saiba mais sobre o IEEE
+	Ramo
+		O IEEE Student Branch da USP São Carlos é um ramo do IEEE internacional que realiza atividades e projetos independentes dentro da universidade e também nas escolas públicas da cidade. Dentre os objetivos do grupo, destacam-se a busca por desenvolver seus membros, gerentes e diretores nas áreas técnica, social, administrativa e de liderança; capacitar os estudantes do campus em alguns softwares e linguagens de programação que são de extrema utilidade para as atividades acadêmicas e incluir socialmente os alunos do ensino médio da rede pública de ensino.
+	Projetos
+		IA
+			Um grupo de estudos de inteligência artificial, onde os integrantes aprendem algoritmos na linguagem de programação Python. Visa não apenas capacitar os membros na linguagem e desenvolver seus conhecimentos com algoritmos genéticos e redes neurais, mas também é um projeto técnico que possui como objetivo criar um chatbot utilizando aprendizado de máquina e que, quando pronto, será disponibilizado na página de facebook do ramo para ser testado por qualquer pessoa.
+		Oficina de energia
+			Projetos e oficinas realizados pelos calouros com o objetivo de desenvolver conceitos básicos e propiciar aprendizado sobre geração de energia. O carro chefe do projeto é a construção de uma bicicleta geradora de energia que será utilizada em conjunto com o Engenharia nas Escolas para ensinar conceitos de eletromagnetismo, desenvolver novas tecnologias e produtos e queimar calorias.
+		Engenharia nas escolas
+			O objetivo do projeto é inspirar e motivar jovens estudantes da rede pública de São Carlos quanto às suas possibilidades profissionais. Os membros do projeto reservam um dia por semestre para ir a uma escola pública e apresentar experimentos físicos, sendo grande parte deles feitos pelos próprios membros com recursos próprios, de forma a incentivar os alunos do 1º ano do ensino médio a montar os seus próprios experimentos e despertar algum interesse por ciência. Além disso, é feita uma roda de conversa onde todos conversam. O objetivo não é apenas falar, mas também ouvir. Entender as necessidades de cada turma e dessa forma não apenas criar uma maior aproximação entre os membros do IEEE e os adolescentes como também para informar os adolescentes a respeito da possibilidade de entrar em uma universidade pública ou um curso técnico com base em seus interesses.
+		Ciência na Prática
+			Visa trazer um pouco da vivência de laboratório para estudantes do ensino médio com uma abordagem prática e presente no dia-a-dia do aluno. O projeto procura ser uma extensão do Engenharia nas Escolas, não apenas com vários encontros durante o semestre, mas também ajudando os alunos com sua preparação para o vestibular.
+	Eventos
+		RRS
+	Diretoria
+		Tesouraria
+			O/a tesoureiro/a do ramo estudantil tem como principal responsabilidade o registro e acompanhamento das atividades financeiras.
+		WIE
+			Mulheres na engenharia, o grupo é voltado para motivar garotas para a área de exatas. São feitos projetos para unir e capacitar as mulheres que já cursam ou se interessam pela área de exatas. Além disso, o WIE participa da roda de conversa do Engenharia nas Escolas, formando uma roda apenas com as meninas, de forma que elas se sintam mais à vontade para fazer perguntas acerca do vestibular, da universidade, das diferentes possibilidades de cursos acadêmicos, de suas vidas e dificuldades que enfrentam por serem mulheres. As mulheres do WIE ajudam a orientar e informar essas garotas e aprendem muito em troca.
+		Presidência
+			O/a presidente do ramo estudantil representa a liderança do grupo e a principal chave de comunicação para com a organização do IEEE (seja a nível global, regional, nacional ou de seção), a universidade e departamentos. Ele/ela fica responsável pela gestão global de todos os assuntos do ramo.
+		RH
+			O/a diretor/a de recursos humanos do ramo estudantil tem como principal responsabilidade o controle e mapeamento das pessoas envolvidas nas atividades do ramo.
+		Marketing
+			O/a diretor/a de marketing do ramo estudantil tem como principal responsabilidade a comunicação com a comunidade e demais estudantes, divulgando as atividades.
