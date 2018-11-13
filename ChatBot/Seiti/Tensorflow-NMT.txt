@@ -1,0 +1,9 @@
+Treinei o dataset com o programa baseado no tensorflow do link:
+
+https://github.com/daniel-kukiela/nmt-chatbot
+
+Mas ele respondia coisas sem sentido. Não sei se o problema era o dataset de teste que eu usei(test2012 e test2013)
+ou se eram os parâmetros de treinamento(qtdade de camadas, qtdade de palavras, número de interações...).
+
+Eu usei o tensorflow-GPU no Ubuntu, porque no Windows sempre dava probema na biblioteca do Tensorflow quando eu instalava 
+os drivers da Nvidia(Cuda Toolkit e cuDNN).
