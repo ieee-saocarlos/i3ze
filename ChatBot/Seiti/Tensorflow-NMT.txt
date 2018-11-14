@@ -1,9 +1,11 @@
-Treinei o dataset com o programa baseado no tensorflow do link:
+Treinei o dataset com o programa baseado no tensorflow:
 
-https://github.com/daniel-kukiela/nmt-chatbot
+  https://github.com/daniel-kukiela/nmt-chatbot
 
-Mas ele respondia coisas sem sentido. Não sei se o problema era o dataset de teste que eu usei(test2012 e test2013)
-ou se eram os parâmetros de treinamento(qtdade de camadas, qtdade de palavras, número de interações...).
+Mas ele respondia coisas sem sentido. Não sei se o problema era o dataset de teste que eu usei(test2012 e test2013)ou se eram os parâmetros de treinamento(qtdade de camadas, qtdade de palavras, número de interações...).
 
-Eu usei o tensorflow-GPU no Ubuntu, porque no Windows sempre dava probema na biblioteca do Tensorflow quando eu instalava 
-os drivers da Nvidia(Cuda Toolkit e cuDNN).
+Eu usei o tensorflow-GPU no Ubuntu. A versão GPU torna o treinamento bem mais rápido, mas precisa de uma palca de vídeo(potente) da Nvidia. No Windows sempre dava probema na biblioteca do Tensorflow quando eu instalava os drivers da Nvidia(Cuda Toolkit e cuDNN).
+ 
+Exportei o arquivo já treinado e rodei no Windows. O arquivo exportado roda em qualquer computador, mesmo se não tiver placa de video. Precisei instalar o python, algumas bibliotecas que podem ser encontrados na pasta
+exportada(pode instalar o tensorflow normal se não tiver placa de vídeo) e também o Visual C++ 14.0(só no Windows) pq dava erro na hora de instalar uma biblioteca. Segue o link do Visual C++ (foi difícil encotrar a versão certa):
+  https://go.microsoft.com/fwlink/?LinkId=691126
