@@ -169,7 +169,7 @@ def conversar(entrada, saida, nome):
 
 def main():
 
-    option = 1
+    escolha = 1
 
     entrada, saida = abrir_documentos()
 
@@ -177,7 +177,7 @@ def main():
 
     #conectar()
 
-    while option != 's':
+    while escolha != 's':
         escolha = opções()
 
         if escolha == '1':
@@ -186,7 +186,7 @@ def main():
         elif escolha == '2':
             option = conversar(entrada, saida, nome)
 
-        else:
+        elif escolha == '3':
             jogo = jogar()
             if jogo == '1':
                 option = jokenpo()
