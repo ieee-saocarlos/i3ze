@@ -32,17 +32,17 @@ def arrumar(lista):
 
 def abrir_documentos():
 
-    with open('teste1.txt', 'r', encoding='utf-8') as inputs1:
+    '''with open('teste1.txt', 'r', encoding='utf-8') as inputs1:
         entrada = inputs1.readlines()
 
-    #with open('from.txt', 'r', encoding='utf-8') as inputs:
-    #    entrada = inputs.readlines()
-
     with open('teste2.txt', 'r', encoding='utf-8') as outputs1:
-        saida = outputs1.readlines()
+        saida = outputs1.readlines()'''
 
-    #with open('to.txt', 'r', encoding='utf-8') as outputs:
-    #    saida = outputs.readlines()
+    with open('from.txt', 'r', encoding='utf-8') as inputs:
+        entrada = inputs.readlines()
+
+    with open('to.txt', 'r', encoding='utf-8') as outputs:
+        saida = outputs.readlines()
 
     for k in range(len(entrada)):
         entrada[k] = entrada[k].replace('\n', '')
@@ -50,30 +50,35 @@ def abrir_documentos():
     for h in range(len(entrada)):
         entrada[h] = arrumar(entrada[h])
 
-
     return entrada, saida
 
 def ler_sobre():
     first = 0
     second = 0
+    flag = 0
     file = open(os.path.join(os.path.dirname(__file__), 'sobre', 'ieee.txt'), 'r')
-    print('-----------------------------------------------------------------------------------------------------------')
     print('O que gostaria de saber sobre o IEEE? \n')
+
     for line in file:
         if line[2] == '-':
+            flag += 1
             print(line)
-    first = input('Selecione a opção desejada')
-    print('-----------------------------------------------------------------------------------------------------------')
-    for line in file:
-        if (line[0] == first and line[3] == '-'):
-            print(line[1:])
-    second = input('Selecione a opção desejada')
-    print('-----------------------------------------------------------------------------------------------------------')
-    for line in file:
-        if line[0:2] == first + second + '0':
-            print (line[6:])
-        elif line[0:2] == first + second and line[3] == '-':
-            print(line[1:])
+    print('--------------------------------------------------------------------------------------------------')
+    file.seek(0, 0)
+    if (flag != 1):
+        flag = 0
+        first = input('Selecione a opção desejada \n')
+        for line in file:
+            if line[0] == first and line[3] == '-':
+                flag += 1
+                print(line[1:])
+        file.seek(0, 0)
+
+    if (flag != 1):
+        second = input('Selecione a opção desejada')
+        for line in file:
+            if line[0:2] == first + second and line[4] == '-':
+                print(line[3:])
     print('-----------------------------------------------------------------------------------------------------------')
     input('voltando ao menu principal. . .')
 
