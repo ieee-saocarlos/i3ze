@@ -1,9 +1,8 @@
-﻿0 - O que gostaria de saber sobre o IEEE?
+﻿#####################################################################
 1 - Ramo
 2 - Projetos
 3 - Eventos
 4 - Diretoria
-00 -
 10 - O IEEE Student Branch da USP São Carlos é um ramo do IEEE internacional que realiza atividades e projetos independentes dentro da universidade e também nas escolas públicas da cidade. Dentre os objetivos do grupo, destacam-se a busca por desenvolver seus membros, gerentes e diretores nas áreas técnica, social, administrativa e de liderança; capacitar os estudantes do campus em alguns softwares e linguagens de programação que são de extrema utilidade para as atividades acadêmicas e incluir socialmente os alunos do ensino médio da rede pública de ensino.
 20 - Escolha um projeto para saber mais sobre suas atividades e entrar em contato.
 21 - IA		
@@ -26,7 +25,3 @@
 430 - O/a presidente do ramo estudantil representa a liderança do grupo e a principal chave de comunicação para com a organização do IEEE (seja a nível global, regional, nacional ou de seção), a universidade e departamentos. Ele/ela fica responsável pela gestão global de todos os assuntos do ramo.
 440 - O/a diretor/a de recursos humanos do ramo estudantil tem como principal responsabilidade o controle e mapeamento das pessoas envolvidas nas atividades do ramo.
 450 - O/a diretor/a de marketing do ramo estudantil tem como principal responsabilidade a comunicação com a comunidade e demais estudantes, divulgando as atividades.
-
-
-
-
